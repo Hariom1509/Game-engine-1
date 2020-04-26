@@ -34,4 +34,3 @@ func _physics_process(delta):
 		sprite.flip_h = true
 	elif vel.x > 0:
 		sprite.flip_h = false
-
